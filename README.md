@@ -1,4 +1,4 @@
-## Hi there, it's me Momin 👩‍💻
+## Hi there
 
 - 🔭 I’m currently working on a complex load balancer that aims to alleviate common issues with load balancers
 - 🌱 I’m currently learning Linux!
